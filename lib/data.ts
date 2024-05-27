@@ -6,11 +6,8 @@ import hrd from "@/public/hrd.png";
 import hs from "@/public/hs.png";
 
 
+
 export const links = [
-  {
-    name: "Home",
-    hash: "#home",
-  },
   {
     name: "About",
     hash: "#about",
